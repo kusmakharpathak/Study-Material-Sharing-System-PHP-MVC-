@@ -1,0 +1,1 @@
+<?php require_once APPROOT . '/view/pages/dashboard.php' ?>
